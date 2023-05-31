@@ -5,6 +5,9 @@
     <classes>
       <class name="org.test.Activities"/>
       <class name="org.test.Authors"/>
+      <class name="org.test.Books"/>
+      <class name="org.test.CoverPhotos"/>
+      <class name="org.test.Users"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
